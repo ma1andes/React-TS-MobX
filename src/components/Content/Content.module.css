@@ -1,0 +1,9 @@
+.Content {
+    position: fixed;
+    top: 100px;
+    left: 500px;
+    color: white;
+    text-align: center;
+    justify-self: center;
+    
+}
